@@ -21,5 +21,5 @@ It's mainly intended so you guys can:
   `StarterGui -> FishEngineGui -> Fishing -> FishingRodHandler (lines 61–64)`
 
 ## How to setup
-[How to setup a rod](https://github.com/cashman3000000/FE-Docs/blob/3efae15a00c68bed4bf9b9671b460fd0ccfd2102/docs/FishingRodSetup.md)
-[How to setup a fish](https://github.com/cashman3000000/FE-Docs/blob/eeee9d393d6e72ba0f699ac06b3a996048d5ceb9/docs/FishingFishSetup.md)
+* [How to setup a rod](https://github.com/cashman3000000/FE-Docs/blob/3efae15a00c68bed4bf9b9671b460fd0ccfd2102/docs/FishingRodSetup.md)
+* [How to setup a fish](https://github.com/cashman3000000/FE-Docs/blob/eeee9d393d6e72ba0f699ac06b3a996048d5ceb9/docs/FishingFishSetup.md)
