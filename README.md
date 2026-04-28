@@ -1,7 +1,3 @@
-# FE-Docs
-Documentation for fish engine
-
-
 # :fishing_pole_and_fish: Fishing System Guide
 ## :package: Installation
 1. Import **FE** into Studio
