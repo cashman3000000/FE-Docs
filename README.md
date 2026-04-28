@@ -19,3 +19,5 @@ It's mainly intended so you guys can:
 * Configs are messy and explanations are incomplete
 * Animations setup:
   `StarterGui -> FishEngineGui -> Fishing -> FishingRodHandler (lines 61–64)`
+
+## How to setup
